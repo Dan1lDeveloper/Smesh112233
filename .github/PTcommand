@@ -1,0 +1,6 @@
+pom.xml
+src/main/java/ru/example/ptcommands/PTCommands.java
+src/main/java/ru/example/ptcommands/PTCommand.java
+src/main/resources/plugin.yml
+src/main/resources/config.yml
+.github/workflows/build.yml
